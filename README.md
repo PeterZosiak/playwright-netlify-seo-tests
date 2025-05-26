@@ -33,7 +33,7 @@ Before running this project locally, ensure you have the following installed:
    npm install
    ```
 
-## 🧪 Running Tests
+## Running Tests
 
 ### Run All Tests
 ```bash
